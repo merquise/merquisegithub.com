@@ -32,11 +32,11 @@
 <!-- NAVBAR
 ================================================== -->
   <body>
-    <div class="navbar-wrapper" class="bg-success">
+    <div class="navbar-wrapper" >
       <div class="container">
 
         <nav class="navbar navbar-inverse navbar-static-top">
-          <div class="container">
+          <div class="container" class="bg-success">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                 <span class="sr-only"></span>
