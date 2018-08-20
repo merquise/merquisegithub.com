@@ -48,7 +48,7 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="#">专业方向</a></li>
+                <li><a href="#">专业方向</a></li>
                 <li><a href="#about">爱好特点</a></li>
                 <li><a href="#contact">奇谈趣事</a></li>
                 <li class="dropdown">
