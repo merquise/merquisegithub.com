@@ -87,8 +87,8 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>Wandering among the flowers</h1>
-              <p>Life is a sea of flowers, pick up a piece of past flowers, smell carefully, meaningful. Looking back on the past, every drop is like the dewdrop in the sea of flowers, nourishing the growing forest of flowers.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+              <p>Life is a sea of flowers, pick up a piece of past flowers, smell carefully, meaningful. Recalling the past, every drop is like the dewdrop in the sea of flowers, nourishing the growing flower forest. I would like to be like this flower fairy, wandering in the flower sea, until I find the flowers that belong to me.</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">花海</a></p>
             </div>
           </div>
         </div>
