@@ -58,9 +58,9 @@
                     <li><a href="#">嵌入式系统设计</a></li>
                     <li><a href="#"></a></li>
                     <li role="separator" class="divider"></li>
-                    <li class="dropdown-header">Nav header</li>
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>
+                    <li class="dropdown-header">developed energes</li>
+                    <li><a href="#">Separated link</a>音乐达人</li>
+                    <li><a href="#">知音漫客</a></li>
                   </ul>
                 </li>
               </ul>
@@ -86,8 +86,8 @@
           <img class="first-slide" src="img\001.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Example headline.</h1>
-              <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
+              <h1>Wandering among the flowers</h1>
+              <p>Life is a sea of flowers, pick up a piece of past flowers, smell carefully, meaningful. Looking back on the past, every drop is like the dewdrop in the sea of flowers, nourishing the growing forest of flowers.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
             </div>
           </div>
