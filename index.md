@@ -59,7 +59,7 @@
                     <li><a href="#"></a></li>
                     <li role="separator" class="divider"></li>
                     <li class="dropdown-header">developed energes</li>
-                    <li><a href="#">Separated link</a>音乐达人</li>
+                    <li><a href="#">音乐达人</a></li>
                     <li><a href="#">知音漫客</a></li>
                   </ul>
                 </li>
@@ -96,9 +96,9 @@
           <img class="second-slide" src="img\002.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+              <h1>The feathers of a bird under a microscope</h1>
+              <p>A bird's flight depends on a pair of strong and powerful wings, which are made of these fine feathers. Under the microscope, these soft, seemingly unremarkable structures can carry the power of bird flight. It is precisely because of the beauty of the micro world that all natural phenomena can better appear before us.</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">纤羽</a></p>
             </div>
           </div>
         </div>
@@ -261,5 +261,5 @@
     <script src="../../assets/js/vendor/holder.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
-    </body>
-    </html>
+   </body>
+ </html>
