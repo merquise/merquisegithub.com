@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="zh-CN">
   <head>
     <meta charset="utf-8">
@@ -8,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Carousel Template for Bootstrap</title>
+    <title>风景美如画</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +40,7 @@
           <div class="container">
             <div class="navbar-header">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
+                <span class="sr-only">专业特长</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -48,19 +49,19 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="#">个人简介</a></li>
-                <li><a href="#about">特长爱好</a></li>
-                <li><a href="#contact">联系方式</a></li>
+                <li class="active"><a href="#">专业方向</a></li>
+                <li><a href="#about">爱好特点</a></li>
+                <li><a href="#contact">奇谈趣事</a></li>
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">扩展方向 <span class="caret"></span></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">业余扩展<span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li><a href="#">想去的地方</a></li>
-                    <li><a href="#">想完成的事</a></li>
-                    <li><a href="#">想见的人</a></li>
+                    <li><a href="#">量子力学</a></li>
+                    <li><a href="#">嵌入式系统设计</a></li>
+                    <li><a href="#"></a></li>
                     <li role="separator" class="divider"></li>
-                    <li class="dropdown-header">青春感悟</li>
-                    <li><a href="#">青春</a></li>
-                    <li><a href="#">感悟</a></li>
+                    <li class="dropdown-header">Nav header</li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li>
                   </ul>
                 </li>
               </ul>
@@ -70,7 +71,11 @@
 
       </div>
     </div>
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
