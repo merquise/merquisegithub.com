@@ -106,9 +106,9 @@
           <img class="third-slide" src="img\003.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+              <h1>Deer in the heart</h1>
+              <p>There was always a little deer in the ground, and occasionally it came in the right place. It was vivid, it was looming, it was this vagueness that brought excitement and joy. Meet the right people, meet the right things, do not hide, let fly their own fawn!</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">心鹿</a></p>
             </div>
           </div>
         </div>
